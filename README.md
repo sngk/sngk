@@ -20,7 +20,6 @@ or maybe not
 
 ## 📈 GitHub Stats
 
-![SNGK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sngk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sngk&layout=compact&theme=radical)
 
 ## 📚 Latest Blog Posts
@@ -28,22 +27,6 @@ or maybe not
 <!-- BLOG-POST-LIST:START -->
 - 
 <!-- BLOG-POST-LIST:END -->
-
-## 🔥 Projects
-
-### 🌟 Featured Projects
-
-1. **[Project Name](https://github.com/sngk/project-name)**
-   - Description: A brief description of what this project does and why it's amazing.
-   - Technologies: Python, Django, PostgreSQL
-
-2. **[Another Project](https://github.com/sngk/another-project)**
-   - Description: An overview of this project's functionality and purpose.
-   - Technologies: JavaScript, React, Node.js
-
-3. **[Yet Another Project](https://github.com/sngk/yet-another-project)**
-   - Description: Key features and highlights of this project.
-   - Technologies: C++, Qt, SQLite
 
 ### 📦 Other Projects
 
