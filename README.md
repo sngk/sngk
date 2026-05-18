@@ -1,22 +1,17 @@
-### Hey. I'm sngk — I like taking things apart.  
-> Mostly so I can put them back together, better.
+### Hi, I'm sngk
 
-🔹 Working with systems, logs, and the stuff in between.  
-🔹 Heavy into security, observability, and automation.  
-🔹 Occasional scripting gremlin: PowerShell, Python, Bash.  
-🔹 Prefer clarity over cleverness. Prefer simple over shiny.
+I work across security, observability, automation, and the operational systems that sit between them.
 
-When not reverse-engineering tech problems, I might be:
+- Systems, logs, and incident workflows
+- SIEM integrations and detection engineering
+- Automation with PowerShell, Python, and Bash
+- Clear, maintainable tooling over clever shortcuts
 
-- breaking dashboards  
-- writing weird policies  
-- building duct-tape pipelines  
-
-Not everything's public — but the mindset always is.
+Most of my work is private, but the public pieces here reflect the same focus: practical tools, readable scripts, and reliable operations.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -28,26 +23,17 @@ Not everything's public — but the mindset always is.
 
 ---
 
-### 🔍 Featured Projects
+### Focus Areas
 
-- **LogRhythm Automation Scripts** — Streamlining rule management, bulk edits, and rollback
-- **Custom Filebeat Pipelines** — Multi-source, context-aware log parsing + enrichment
-- **Grafana Dashboards** — Built to break and built to scale — with alerts that actually alert
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sngk&show_icons=true&theme=gruvbox&hide_title=true&hide_border=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sngk&layout=compact&theme=gruvbox&hide_border=true" height="140"/>
-</p>
+- **LogRhythm automation** - rule management, bulk edits, and rollback workflows
+- **Filebeat pipelines** - multi-source parsing, enrichment, and normalization
+- **Grafana dashboards** - operational views with useful alerting and clear ownership
+- **AWS automation** - repeatable cloud operations and forensic support tooling
 
 ---
 
-🛠 Currently hacking on:
-- Custom log enrichment pipelines  
-- SIEM integrations (LogRhythm, Elastic, etc.)  
-- AWS automation + forensic tooling
+### Currently Working On
 
-📫 Not really into contact forms. Just send logs.
+- Custom log enrichment pipelines
+- SIEM integrations for LogRhythm and Elastic
+- AWS automation and forensic tooling
